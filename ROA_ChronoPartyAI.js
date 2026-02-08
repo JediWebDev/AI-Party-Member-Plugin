@@ -1,6 +1,6 @@
 /*:
  * @plugindesc (ROA) Chrono Engine Party AI (ABS) - Followers/Party Battlers AI skeleton (RANGED/MELEE/TANK/HEALER). v0.1
- * @author dijOTTER
+ * @author Andrew+GPT
  *
  * @help
  * ============================================================================
